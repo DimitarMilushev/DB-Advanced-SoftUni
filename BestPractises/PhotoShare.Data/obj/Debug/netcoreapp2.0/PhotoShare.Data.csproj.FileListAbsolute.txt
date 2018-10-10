@@ -1,0 +1,12 @@
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.deps.json
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csprojAssemblyReference.cache
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CoreCompileInputs.cache
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfoInputs.cache
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfo.cs
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CopyComplete
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.dll
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.pdb

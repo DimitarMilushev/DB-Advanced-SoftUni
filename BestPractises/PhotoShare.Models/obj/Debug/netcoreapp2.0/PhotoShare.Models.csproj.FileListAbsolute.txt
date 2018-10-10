@@ -1,0 +1,9 @@
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojAssemblyReference.cache
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\Repos\DB-Advanced-SoftUni\BestPractises\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb

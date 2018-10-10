@@ -1,0 +1,12 @@
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csprojAssemblyReference.cache
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csproj.CoreCompileInputs.cache
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.AssemblyInfoInputs.cache
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.AssemblyInfo.cs
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.deps.json
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csproj.CopyComplete
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+D:\Repos\DB-Advanced-SoftUni\Code-First\HospitalDatabaseInitializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb
